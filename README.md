@@ -1,4 +1,4 @@
-# ## Hello World, Eu sou João Gabriel! 👋
+# Hello World, Eu sou João Gabriel! 👋
 
 - 🔭 Hoje sou um estudante de programação
 - 🌱 buscando mais experiencia nesa área

@@ -1,4 +1,4 @@
-# ## Hello World, Eu sou Yuri! 👋
+# ## Hello World, Eu sou joão gabriel! 👋
 
 - 🔭 Hoje sou um estudante de programação
 - 🌱 buscando mais experiencia nesa área
